@@ -1,12 +1,12 @@
 -- import: fastn-community.github.io/doc-site as ds
 -- import: fifthtry.github.io/dark-flame-cs
--- import: gargajit.github.io/optimization/assets
+-- import: fastn-community.github.io/optimization/assets
 
 -- ds.page: This is page title
 colors: $dark-flame-cs.main
 document-title: Welcome!
 document-description: Learn how to do SEO!
-document-image: https://gargajit.github.io/optimization/images/seo-meta.png
+document-image: https://fastn-community.github.io/optimization/images/seo-meta.png
 ;; document-image: $assets.files.images.seo-meta.png.light
 
 
